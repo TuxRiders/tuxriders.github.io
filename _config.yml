@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         kramdown
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Tux Riders
+tagline:          'Project Site'
+description:      ''
+url:              http://www.tuxriders.com/
+
+highlighter:      rouge
+markdown:         kramdown
+
+paginate:         5
+
+github:
+  repo:           https://github.com/TuxRiders/homepage
