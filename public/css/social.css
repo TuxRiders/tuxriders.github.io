@@ -36,7 +36,7 @@ ul.icon-effect > li {
   color: #f1f1f1;
   line-height: 52px;
   text-align: center;
-  background-color: #3b768f;
+  background-color: #816c00;
 }
 .icon:after {
   position: absolute;
@@ -74,7 +74,7 @@ ul.icon-effect > li {
 .icon-effect-1a .icon:hover {
   background-color: #f1f1f1;
   z-index: 10;
-  color: #094e6b;
+  color: #a78b00;
 }
 .icon-effect-1a .icon:hover:after {
   -webkit-transform: scale(1);
