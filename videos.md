@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Videos
+title: Video Series
 ---
 
 <!-- I try to record my presentations in conferences that I'm allowed to do so. Then I combine the recorded audio with the presented slides and share the output here. For more details of this, you may have a look at [Presentations and Posters](/presentations).
