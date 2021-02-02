@@ -19,6 +19,7 @@ ul.icon-effect {
 ul.icon-effect > li {
   display: inline;
   margin-right: 0 auto;
+  padding: 7px;
 }
 /*
 * Icon styles
