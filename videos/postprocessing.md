@@ -14,3 +14,7 @@ In order to follow the videos and reproduce the output, you need the raw simulat
 1. Introducing Postprocessing Projects
 
 [![presentation](http://img.youtube.com/vi/AFkeKoq4SXo/0.jpg)](https://www.youtube.com/watch?v=AFkeKoq4SXo)
+
+2. Introduction to ParaView
+
+[![presentation](http://img.youtube.com/vi/1HiTOdO_bus/0.jpg)](https://www.youtube.com/watch?v=1HiTOdO_bus)
