@@ -18,3 +18,7 @@ In order to follow the videos and reproduce the output, you need the raw simulat
 2. Introduction to ParaView
 
 [![presentation](http://img.youtube.com/vi/1HiTOdO_bus/0.jpg)](https://www.youtube.com/watch?v=1HiTOdO_bus)
+
+3. Cell viability project: importing data
+
+[![presentation](http://img.youtube.com/vi/4AGbfs9vFSQ/0.jpg)](https://www.youtube.com/watch?v=4AGbfs9vFSQ)
