@@ -22,3 +22,7 @@ In order to follow the videos and reproduce the output, you need the raw simulat
 3. Cell viability project: importing data
 
 [![presentation](http://img.youtube.com/vi/4AGbfs9vFSQ/0.jpg)](https://www.youtube.com/watch?v=4AGbfs9vFSQ)
+
+4. Cell viability project: animations
+
+[![presentation](http://img.youtube.com/vi/1QbcKxrAaKQ/0.jpg)](https://www.youtube.com/watch?v=1QbcKxrAaKQ)
