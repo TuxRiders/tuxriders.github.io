@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Tux Riders
+title:            TuxRiders
 tagline:          'Project Site'
 description:      ''
 url:              http://www.tuxriders.com/
