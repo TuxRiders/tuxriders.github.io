@@ -21,3 +21,5 @@ In order to follow the videos and reproduce the output, you need the raw simulat
 [![presentation](http://img.youtube.com/vi/1QbcKxrAaKQ/0.jpg)](https://www.youtube.com/watch?v=1QbcKxrAaKQ)
 5. **Cell viability project: plot data over a line**
 [![presentation](http://img.youtube.com/vi/tGi-jk2UE2U/0.jpg)](https://www.youtube.com/watch?v=tGi-jk2UE2U)
+6. **Degradation/corrosion project: visualizing a degrading screw**
+[![presentation](http://img.youtube.com/vi/yeBPGwP3L80/0.jpg)](https://www.youtube.com/watch?v=yeBPGwP3L80)
