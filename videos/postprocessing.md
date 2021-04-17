@@ -27,9 +27,11 @@ In order to follow the videos and reproduce the output, you need the raw simulat
 [![presentation](http://img.youtube.com/vi/Sz-eBML2pxs/0.jpg)](https://www.youtube.com/watch?v=Sz-eBML2pxs)
 8. **Introducing interface tracking of tissue growth models**
 [![presentation](http://img.youtube.com/vi/cA6W_0ptpl8/0.jpg)](https://www.youtube.com/watch?v=cA6W_0ptpl8)
-9. **Visualizing the phase-field and level-set models**
+9. **Visualizing phase-field and level-set models**
 [![presentation](http://img.youtube.com/vi/keWy6WVHwmg/0.jpg)](https://www.youtube.com/watch?v=keWy6WVHwmg)
 10. **Visualizing output of physics-informed neural network models**
 [![presentation](http://img.youtube.com/vi/hmKzRLc8N34/0.jpg)](https://www.youtube.com/watch?v=hmKzRLc8N34)
 11. **Fluid flow: working with fields and vectors**
 [![presentation](http://img.youtube.com/vi/CByh84hOslU/0.jpg)](https://www.youtube.com/watch?v=CByh84hOslU)
+12. **Fluid flow: stream lines**
+[![presentation](http://img.youtube.com/vi/Xzwe94bvGJI/0.jpg)](https://www.youtube.com/watch?v=Xzwe94bvGJI)
