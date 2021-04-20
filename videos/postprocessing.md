@@ -35,3 +35,5 @@ In order to follow the videos and reproduce the output, you need the raw simulat
 [![presentation](http://img.youtube.com/vi/CByh84hOslU/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=CByh84hOslU)
 12. [**Fluid flow: stream lines**](https://www.youtube.com/watch?v=Xzwe94bvGJI)
 [![presentation](http://img.youtube.com/vi/Xzwe94bvGJI/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=Xzwe94bvGJI)
+13. [**Fluid flow: particle tracking and path lines**](https://www.youtube.com/watch?v=Zmf8OE2N518)
+[![presentation](http://img.youtube.com/vi/Zmf8OE2N518/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=Zmf8OE2N518)
