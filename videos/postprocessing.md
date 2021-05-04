@@ -39,3 +39,5 @@ In order to follow the videos and reproduce the output, you need the raw simulat
 [![presentation](http://img.youtube.com/vi/Zmf8OE2N518/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=Zmf8OE2N518)
 14. [**Fluid flow: NVIDIA IndeX and visualization using GPUs**](https://www.youtube.com/watch?v=qDEZ2MeX5Dg)
 [![presentation](http://img.youtube.com/vi/qDEZ2MeX5Dg/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=qDEZ2MeX5Dg)
+15. [**Python scripting for automating tasks**](https://www.youtube.com/watch?v=qisL0DNrw0Y)
+[![presentation](http://img.youtube.com/vi/qisL0DNrw0Y/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=qisL0DNrw0Y)
