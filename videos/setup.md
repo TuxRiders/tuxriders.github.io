@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Postprocessing simulation results using ParaView
+title: Setup your scientific computing environment
 ---
 
 In this series, we setup a Linux environment for scientific computing from scratch and discuss its various aspects. 
