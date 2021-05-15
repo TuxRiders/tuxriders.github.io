@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Video Series
+title: Published Video Series
 inmenu: yes
 ---
 
