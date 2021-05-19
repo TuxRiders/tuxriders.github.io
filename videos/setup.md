@@ -13,3 +13,5 @@ In order to follow the videos more efficiently and reproduce the workflows, you 
 
 1. [**Introducing “Setup your scientific computing environment” syllabus**](https://www.youtube.com/watch?v=w-EP6p8tDeQ)
 [![presentation](http://img.youtube.com/vi/w-EP6p8tDeQ/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=w-EP6p8tDeQ)
+2. [**Installing Ubuntu inside a VirtualBox virtual machine**](https://www.youtube.com/watch?v=rJAN1UdbBhs)
+[![presentation](http://img.youtube.com/vi/rJAN1UdbBhs/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=rJAN1UdbBhs)
