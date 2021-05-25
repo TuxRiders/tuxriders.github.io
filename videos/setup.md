@@ -15,3 +15,5 @@ In order to follow the videos more efficiently and reproduce the workflows, you 
 [![presentation](http://img.youtube.com/vi/w-EP6p8tDeQ/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=w-EP6p8tDeQ)
 2. [**Installing Ubuntu inside a VirtualBox virtual machine**](https://www.youtube.com/watch?v=rJAN1UdbBhs)
 [![presentation](http://img.youtube.com/vi/rJAN1UdbBhs/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=rJAN1UdbBhs)
+3. [**Introduction to Linux shell commands in bash**](https://www.youtube.com/watch?v=MwecBzno6hI)
+[![presentation](http://img.youtube.com/vi/MwecBzno6hI/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=MwecBzno6hI)
