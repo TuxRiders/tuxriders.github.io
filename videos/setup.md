@@ -17,3 +17,5 @@ In order to follow the videos more efficiently and reproduce the workflows, you 
 [![presentation](http://img.youtube.com/vi/rJAN1UdbBhs/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=rJAN1UdbBhs)
 3. [**Introduction to Linux shell commands in bash**](https://www.youtube.com/watch?v=MwecBzno6hI)
 [![presentation](http://img.youtube.com/vi/MwecBzno6hI/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=MwecBzno6hI)
+4. [**Install programs using package managers: GNU Octave**](https://www.youtube.com/watch?v=LVHSmM3mOoE)
+[![presentation](http://img.youtube.com/vi/LVHSmM3mOoE/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=LVHSmM3mOoE)
