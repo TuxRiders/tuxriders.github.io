@@ -19,3 +19,5 @@ In order to follow the videos more efficiently and reproduce the workflows, you 
 [![presentation](http://img.youtube.com/vi/MwecBzno6hI/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=MwecBzno6hI)
 4. [**Install programs using package managers: GNU Octave**](https://www.youtube.com/watch?v=LVHSmM3mOoE)
 [![presentation](http://img.youtube.com/vi/LVHSmM3mOoE/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=LVHSmM3mOoE)
+5. [**Install Visual Studio Code and Atom using installer packages and dpkg**](https://www.youtube.com/watch?v=SVhe97F3R4w)
+[![presentation](http://img.youtube.com/vi/SVhe97F3R4w/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=SVhe97F3R4w)
