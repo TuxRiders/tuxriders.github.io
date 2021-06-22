@@ -23,3 +23,5 @@ In order to follow the videos more efficiently and reproduce the workflows, you 
 [![presentation](http://img.youtube.com/vi/SVhe97F3R4w/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=SVhe97F3R4w)
 6. [**Install ParaView, GMSH, and SALOME using precompiled (portable) binaries**](https://www.youtube.com/watch?v=6c5PYMWrweg)
 [![presentation](http://img.youtube.com/vi/6c5PYMWrweg/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=6c5PYMWrweg)
+7. [**Python package managers and Conda environments: Install meshio and Jupyter**](https://www.youtube.com/watch?v=WUw6iiTRsZA)
+[![presentation](http://img.youtube.com/vi/WUw6iiTRsZA/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=WUw6iiTRsZA)
