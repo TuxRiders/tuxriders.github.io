@@ -29,3 +29,5 @@ In order to follow the videos more efficiently and reproduce the workflows, you 
 [![presentation](http://img.youtube.com/vi/qON2D3vDIt8/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=qON2D3vDIt8)
 9. [**Build GNU Scientific Library using Make**](https://www.youtube.com/watch?v=dKBLJN4x_7A)
 [![presentation](http://img.youtube.com/vi/dKBLJN4x_7A/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=dKBLJN4x_7A)
+10. [**Build Mmg mesh generator using CMake**](https://www.youtube.com/watch?v=RTGhzbszxwI)
+[![presentation](http://img.youtube.com/vi/RTGhzbszxwI/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=RTGhzbszxwI)
