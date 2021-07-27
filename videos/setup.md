@@ -33,3 +33,5 @@ In order to follow the videos more efficiently and reproduce the workflows, you 
 [![presentation](http://img.youtube.com/vi/RTGhzbszxwI/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=RTGhzbszxwI)
 11. [**Build CGAL-based programs using CMake**](https://www.youtube.com/watch?v=5IMibEt5JpY)
 [![presentation](http://img.youtube.com/vi/5IMibEt5JpY/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=5IMibEt5JpY)
+12. [**Build OpenLB programs for lattice Boltzmann simulations**](https://www.youtube.com/watch?v=jt_4eGJeSB8)
+[![presentation](http://img.youtube.com/vi/jt_4eGJeSB8/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=jt_4eGJeSB8)
