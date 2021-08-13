@@ -37,3 +37,5 @@ In order to follow the videos more efficiently and reproduce the workflows, you 
 [![presentation](http://img.youtube.com/vi/jt_4eGJeSB8/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=jt_4eGJeSB8)
 13. [**Build FreeFEM finite element solver**](https://www.youtube.com/watch?v=D2VAP-wHxFI)
 [![presentation](http://img.youtube.com/vi/D2VAP-wHxFI/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=D2VAP-wHxFI)
+14. [**Build LAMMPS molecular dynamics simulation code and link it to VTK toolkit**](https://www.youtube.com/watch?v=Id3eVPDinDE)
+[![presentation](http://img.youtube.com/vi/Id3eVPDinDE/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=Id3eVPDinDE)
