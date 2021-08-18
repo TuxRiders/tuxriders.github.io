@@ -13,3 +13,6 @@ Post-processing is usually the last (but definitely not least) step of a scienti
 
 Environment setup is one of the most fundamental topics we want to talk about. In this series, we will setup a Linux environment for scientific computing from scratch and discuss its various aspects. Beside the techniques you will see for installing, compiling, and building a wide range of programs we need later, it may provide an opportunity to know those programs if you don’t.  [See more...](setup)
 
+### [An easy introduction to applied numerical computing](numerical-computing)
+
+Numerical computing is the foundation of all the things we are going to discuss. Solving complex mathematical equations (more specifically, differential equations, describing a wide range of phenomena in science and engineering) requires special techniques called numerical methods. It’s called like this to show that the equations cannot be solved directly (or let’s say analytically). This is the foundation of most of computer modeling and simulation works, so we need to get familiar with the concepts of numerical methods (numerical computing). [See more...](numerical-computing)
