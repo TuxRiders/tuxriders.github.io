@@ -13,4 +13,6 @@ In order to follow the videos, you need the educational materials and content, w
 
 1. [**An easy (but not so short) introduction to applied numerical computing**](https://www.youtube.com/watch?v=v4OlC-B6Wa8)
 [![presentation](http://img.youtube.com/vi/v4OlC-B6Wa8/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=v4OlC-B6Wa8)
+2. [**Introduction to Jupyter notebooks**](https://www.youtube.com/watch?v=_xYVsijBF8w)
+[![presentation](http://img.youtube.com/vi/_xYVsijBF8w/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=_xYVsijBF8w)
 
