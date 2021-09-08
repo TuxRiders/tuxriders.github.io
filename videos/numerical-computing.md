@@ -17,3 +17,5 @@ In order to follow the videos, you need the educational materials and content, w
 [![presentation](http://img.youtube.com/vi/_xYVsijBF8w/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=_xYVsijBF8w)
 3. [**A quick overview of Python programming language**](https://www.youtube.com/watch?v=w0jbjaJf_Ho)
 [![presentation](http://img.youtube.com/vi/w0jbjaJf_Ho/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=w0jbjaJf_Ho)
+4. [**Introduction to NumPy multi-dimensional arrays and matrices library**](https://www.youtube.com/watch?v=3Tkik5wg1-8)
+[![presentation](http://img.youtube.com/vi/3Tkik5wg1-8/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=3Tkik5wg1-8)
