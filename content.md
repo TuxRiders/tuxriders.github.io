@@ -12,7 +12,7 @@ This is the list of content we intended to record/release eventually, although i
 
 * [Setup your scientific computing environment](../videos/setup)
 
-* A not-so-short introduction to numerical computing (numerical methods for solving partial differential equations)
+* [An easy (but not so short) introduction to applied numerical computing (numerical methods for solving partial differential equations)](../videos/numerical-computing)
 
 * Introduction to finite element programming using FreeFEM and FEniCS
 
