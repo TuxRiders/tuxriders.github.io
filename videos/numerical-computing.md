@@ -21,3 +21,5 @@ In order to follow the videos, you need the educational materials and content, w
 [![presentation](http://img.youtube.com/vi/3Tkik5wg1-8/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=3Tkik5wg1-8)
 5. [**SciPy in a nutshell, the library of scientific algorithms for Python**](https://www.youtube.com/watch?v=H2BLlbRZjwY)
 [![presentation](http://img.youtube.com/vi/H2BLlbRZjwY/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=H2BLlbRZjwY)
+6. [**Essential Matplotlib, data plotting library for Python**](https://www.youtube.com/watch?v=GINag07oPZY)
+[![presentation](http://img.youtube.com/vi/GINag07oPZY/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=GINag07oPZY)
