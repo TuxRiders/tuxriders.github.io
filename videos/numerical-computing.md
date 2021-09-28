@@ -23,5 +23,5 @@ In order to follow the videos, you need the educational materials and content, w
 [![presentation](http://img.youtube.com/vi/H2BLlbRZjwY/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=H2BLlbRZjwY)
 6. [**Essential Matplotlib, data plotting library for Python**](https://www.youtube.com/watch?v=GINag07oPZY)
 [![presentation](http://img.youtube.com/vi/GINag07oPZY/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=GINag07oPZY)
-7. [**A quick look at SymPy for symbolic computation in Python**](https://www.youtube.com/watch?v=R40tFmSCwM)
-[![presentation](http://img.youtube.com/vi/R40tFmSCwM/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=R40tFmSCwM)
+7. [**A quick look at SymPy for symbolic computation in Python**](https://www.youtube.com/watch?v=lR40tFmSCwM)
+[![presentation](http://img.youtube.com/vi/lR40tFmSCwM/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=lR40tFmSCwM)
