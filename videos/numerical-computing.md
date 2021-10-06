@@ -25,3 +25,5 @@ In order to follow the videos, you need the educational materials and content, w
 [![presentation](http://img.youtube.com/vi/GINag07oPZY/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=GINag07oPZY)
 7. [**A quick look at SymPy for symbolic computation in Python**](https://www.youtube.com/watch?v=lR40tFmSCwM)
 [![presentation](http://img.youtube.com/vi/lR40tFmSCwM/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=lR40tFmSCwM)
+8. [**Use SymPy for solving ordinary differential equations in Python**](https://www.youtube.com/watch?v=xCB8qgRrZwU)
+[![presentation](http://img.youtube.com/vi/xCB8qgRrZwU/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=xCB8qgRrZwU)
