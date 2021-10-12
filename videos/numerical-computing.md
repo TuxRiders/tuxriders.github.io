@@ -27,3 +27,5 @@ In order to follow the videos, you need the educational materials and content, w
 [![presentation](http://img.youtube.com/vi/lR40tFmSCwM/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=lR40tFmSCwM)
 8. [**Use SymPy for solving ordinary differential equations in Python**](https://www.youtube.com/watch?v=xCB8qgRrZwU)
 [![presentation](http://img.youtube.com/vi/xCB8qgRrZwU/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=xCB8qgRrZwU)
+9. [**High-performance computing and parallel programming in Python**](https://www.youtube.com/watch?v=DouD7v8C4KU)
+[![presentation](http://img.youtube.com/vi/DouD7v8C4KU/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=DouD7v8C4KU)
