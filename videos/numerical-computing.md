@@ -29,3 +29,5 @@ In order to follow the videos, you need the educational materials and content, w
 [![presentation](http://img.youtube.com/vi/xCB8qgRrZwU/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=xCB8qgRrZwU)
 9. [**High-performance computing and parallel programming in Python**](https://www.youtube.com/watch?v=DouD7v8C4KU)
 [![presentation](http://img.youtube.com/vi/DouD7v8C4KU/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=DouD7v8C4KU)
+10. [**A short git tutorial; introducing version control systems**](https://www.youtube.com/watch?v=chAeJbdyR1A)
+[![presentation](http://img.youtube.com/vi/chAeJbdyR1A/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=chAeJbdyR1A)
