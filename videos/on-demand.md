@@ -7,3 +7,6 @@ In this series, we try to address a set of interesting questions/comments/challe
 
 ## Videos
 
+1. [**Introducing “On Demand” series of videos**](https://www.youtube.com/watch?v=ezuaVQk-HRQ)
+[![presentation](http://img.youtube.com/vi/ezuaVQk-HRQ/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=ezuaVQk-HRQ)
+
