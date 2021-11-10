@@ -12,3 +12,6 @@ In this series, we try to address a set of interesting questions/comments/challe
 
 2. [**SALOME mesh generation and labeling for importing it to other programs**](https://www.youtube.com/watch?v=pvPintLL63Q)
 [![presentation](http://img.youtube.com/vi/pvPintLL63Q/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=pvPintLL63Q)
+
+3. [**ParaView map, resample, and combine different datasets**](https://www.youtube.com/watch?v=OggPGUEgl3c)
+[![presentation](http://img.youtube.com/vi/OggPGUEgl3c/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=OggPGUEgl3c)
