@@ -33,3 +33,5 @@ In order to follow the videos, you need the educational materials and content, w
 [![presentation](http://img.youtube.com/vi/chAeJbdyR1A/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=chAeJbdyR1A)
 11. [**Why numerical methods matter? Why we need them for computer simulations?**](https://www.youtube.com/watch?v=b5nUU5bgwi4)
 [![presentation](http://img.youtube.com/vi/b5nUU5bgwi4/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=b5nUU5bgwi4)
+12. [**Finite difference method for (nonlinear) ordinary differential equations**](https://www.youtube.com/watch?v=WkOnncqKQGI)
+[![presentation](http://img.youtube.com/vi/WkOnncqKQGI/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=WkOnncqKQGI)
