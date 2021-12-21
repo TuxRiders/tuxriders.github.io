@@ -39,3 +39,5 @@ In order to follow the videos, you need the educational materials and content, w
 [![presentation](http://img.youtube.com/vi/Ac0QUM5Z3yg/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=Ac0QUM5Z3yg)
 14. [**Stability condition and higher-order methods for numerical solution of PDEs**](https://www.youtube.com/watch?v=gxEF-famvfA)
 [![presentation](http://img.youtube.com/vi/gxEF-famvfA/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=gxEF-famvfA)
+15. [**Finite difference solution of the diffusion equation**](https://www.youtube.com/watch?v=iwQ7A5VVQL8)
+[![presentation](http://img.youtube.com/vi/iwQ7A5VVQL8/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=iwQ7A5VVQL8)
