@@ -41,3 +41,6 @@ In order to follow the videos, you need the educational materials and content, w
 [![presentation](http://img.youtube.com/vi/gxEF-famvfA/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=gxEF-famvfA)
 15. [**Finite difference solution of the diffusion equation**](https://www.youtube.com/watch?v=iwQ7A5VVQL8)
 [![presentation](http://img.youtube.com/vi/iwQ7A5VVQL8/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=iwQ7A5VVQL8)
+16. [**Iterative solution of differential equations using finite difference method**](https://www.youtube.com/watch?v=ZcckIrK-Oog)
+[![presentation](http://img.youtube.com/vi/ZcckIrK-Oog/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=ZcckIrK-Oog)
+
