@@ -17,3 +17,5 @@ In this series, we try to address a set of interesting questions/comments/challe
 [![presentation](http://img.youtube.com/vi/UcFWOzG5ygM/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=UcFWOzG5ygM)
 5. [**Install and use Windows Subsystem for Linux to run Linux programs**](https://www.youtube.com/watch?v=Xa6vM0Ot1hc)
 [![presentation](http://img.youtube.com/vi/Xa6vM0Ot1hc/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=Xa6vM0Ot1hc)
+6. [**Build CGAL computational geometry programs on Windows using WSL**](https://www.youtube.com/watch?v=iVMCpHjL7RY)
+[![presentation](http://img.youtube.com/vi/iVMCpHjL7RY/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=iVMCpHjL7RY)
