@@ -21,3 +21,5 @@ In this series, we try to address a set of interesting questions/comments/challe
 [![presentation](http://img.youtube.com/vi/iVMCpHjL7RY/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=iVMCpHjL7RY)
 7. [**Use MSYS and MinGW to compile Linux programs for Windows: run CGAL natively on Windows**](https://www.youtube.com/watch?v=Qwmq9PkmrKI)
 [![presentation](http://img.youtube.com/vi/Qwmq9PkmrKI/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=Qwmq9PkmrKI)
+8. [**Getting started with OpenLB, lattice Boltzmann simulation code**](https://www.youtube.com/watch?v=oxaxoeDAiuo)
+[![presentation](http://img.youtube.com/vi/oxaxoeDAiuo/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=oxaxoeDAiuo)
