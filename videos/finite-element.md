@@ -13,3 +13,5 @@ In order to follow the videos and reproduce the output, you may want to use the 
 
 1. [**Transient heat transfer in helical heat exchangers: introducing the video series**](https://www.youtube.com/watch?v=U6-zYNNCf9U)
 [![presentation](http://img.youtube.com/vi/U6-zYNNCf9U/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=U6-zYNNCf9U)
+2. [**Prepare the geometry: create a helical spring shape in SALOME and mesh it**](https://www.youtube.com/watch?v=WZ5OxNwBfGA)
+[![presentation](http://img.youtube.com/vi/WZ5OxNwBfGA/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=WZ5OxNwBfGA)
