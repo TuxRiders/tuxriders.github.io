@@ -15,3 +15,5 @@ In order to follow the videos and reproduce the output, you may want to use the 
 [![presentation](http://img.youtube.com/vi/U6-zYNNCf9U/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=U6-zYNNCf9U)
 2. [**Prepare the geometry: create a helical spring shape in SALOME and mesh it**](https://www.youtube.com/watch?v=WZ5OxNwBfGA)
 [![presentation](http://img.youtube.com/vi/WZ5OxNwBfGA/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=WZ5OxNwBfGA)
+3. [**Prepare the geometry: Create the helical shape in FreeCAD and mesh it in SALOME**](https://www.youtube.com/watch?v=TQ5Z9rH7Gc0)
+[![presentation](http://img.youtube.com/vi/TQ5Z9rH7Gc0/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=TQ5Z9rH7Gc0)
