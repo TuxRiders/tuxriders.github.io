@@ -17,3 +17,5 @@ In order to follow the videos and reproduce the output, you may want to use the 
 [![presentation](http://img.youtube.com/vi/WZ5OxNwBfGA/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=WZ5OxNwBfGA)
 3. [**Prepare the geometry: Create the helical shape in FreeCAD and mesh it in SALOME**](https://www.youtube.com/watch?v=TQ5Z9rH7Gc0)
 [![presentation](http://img.youtube.com/vi/TQ5Z9rH7Gc0/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=TQ5Z9rH7Gc0)
+4. [**Transient heat transfer (diffusion) in FreeFEM: weak formulation & implementation**](https://www.youtube.com/watch?v=cyH2k30szZE)
+[![presentation](http://img.youtube.com/vi/cyH2k30szZE/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=cyH2k30szZE)
