@@ -21,3 +21,5 @@ In order to follow the videos and reproduce the output, you may want to use the 
 [![presentation](http://img.youtube.com/vi/cyH2k30szZE/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=cyH2k30szZE)
 5. [**Installing FEniCS and importing the mesh into it**](https://www.youtube.com/watch?v=XnfvXn9bF4Y)
 [![presentation](http://img.youtube.com/vi/XnfvXn9bF4Y/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=XnfvXn9bF4Y)
+6. [**Transient heat transfer (diffusion) in FEniCS: weak formulation & implementation**](https://www.youtube.com/watch?v=0CBNLEP9Vyc)
+[![presentation](http://img.youtube.com/vi/0CBNLEP9Vyc/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=0CBNLEP9Vyc)
