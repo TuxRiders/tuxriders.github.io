@@ -39,3 +39,5 @@ In order to follow the videos more efficiently and reproduce the workflows, you 
 [![presentation](http://img.youtube.com/vi/D2VAP-wHxFI/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=D2VAP-wHxFI)
 14. [**Build LAMMPS molecular dynamics simulation code and link it to VTK toolkit**](https://www.youtube.com/watch?v=Id3eVPDinDE)
 [![presentation](http://img.youtube.com/vi/Id3eVPDinDE/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=Id3eVPDinDE)
+15. [**Install OpenFOAM computational fluid dynamics (CFD) toolbox and run a sample**](https://www.youtube.com/watch?v=tq9PX14PymU)
+[![presentation](http://img.youtube.com/vi/tq9PX14PymU/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=tq9PX14PymU)
