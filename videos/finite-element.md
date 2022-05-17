@@ -27,3 +27,5 @@ In order to follow the videos and reproduce the output, you may want to use the 
 [![presentation](http://img.youtube.com/vi/Gjeq0NjytW0/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=Gjeq0NjytW0)
 8. [**Transient heat transfer (diffusion) simulation in Elmer Multiphysics**](https://www.youtube.com/watch?v=hBGRkD6F-BE)
 [![presentation](http://img.youtube.com/vi/hBGRkD6F-BE/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=hBGRkD6F-BE)
+9. [**Transient heat transfer simulation in OpenFOAM**](https://www.youtube.com/watch?v=P3wgTEhHIJM)
+[![presentation](http://img.youtube.com/vi/P3wgTEhHIJM/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=P3wgTEhHIJM)
