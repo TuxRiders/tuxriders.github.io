@@ -31,3 +31,5 @@ In order to follow the videos and reproduce the output, you may want to use the 
 [![presentation](http://img.youtube.com/vi/P3wgTEhHIJM/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=P3wgTEhHIJM)
 10. [**Transient and steady-state heat transfer simulation in Code Aster & Salome-Meca**](https://www.youtube.com/watch?v=nnWhlJz3Tpk)
 [![presentation](http://img.youtube.com/vi/nnWhlJz3Tpk/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=nnWhlJz3Tpk)
+11. [**Introducing some of the most powerful and well-known open-source solvers**](https://www.youtube.com/watch?v=qs6SSuJ1noY)
+[![presentation](http://img.youtube.com/vi/qs6SSuJ1noY/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=qs6SSuJ1noY)
