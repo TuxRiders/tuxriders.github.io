@@ -23,3 +23,5 @@ In this series, we try to address a set of interesting questions/comments/challe
 [![presentation](http://img.youtube.com/vi/Qwmq9PkmrKI/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=Qwmq9PkmrKI)
 8. [**Getting started with OpenLB, lattice Boltzmann simulation code**](https://www.youtube.com/watch?v=oxaxoeDAiuo)
 [![presentation](http://img.youtube.com/vi/oxaxoeDAiuo/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=oxaxoeDAiuo)
+9. [**Making cool videos in ParaView by moving/rotating the camera and animating properties**](https://www.youtube.com/watch?v=7R3rrKfuFj4)
+[![presentation](http://img.youtube.com/vi/7R3rrKfuFj4/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=7R3rrKfuFj4)
