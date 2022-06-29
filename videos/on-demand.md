@@ -25,3 +25,5 @@ In this series, we try to address a set of interesting questions/comments/challe
 [![presentation](http://img.youtube.com/vi/oxaxoeDAiuo/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=oxaxoeDAiuo)
 9. [**Making cool videos in ParaView by moving/rotating the camera and animating properties**](https://www.youtube.com/watch?v=7R3rrKfuFj4)
 [![presentation](http://img.youtube.com/vi/7R3rrKfuFj4/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=7R3rrKfuFj4)
+10. [**Developing FreeFEM plugins in C++ to link external codes**](https://www.youtube.com/watch?v=JSvVVkf4GDU)
+[![presentation](http://img.youtube.com/vi/JSvVVkf4GDU/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=JSvVVkf4GDU)
