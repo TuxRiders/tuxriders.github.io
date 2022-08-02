@@ -45,3 +45,5 @@ In order to follow the videos, you need the educational materials and content, w
 [![presentation](http://img.youtube.com/vi/ZcckIrK-Oog/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=ZcckIrK-Oog)
 17. [**All you need to know from finite element theory | Part 1 | approximation using basis functions**](https://www.youtube.com/watch?v=LNeD9vEqN_Q)
 [![presentation](http://img.youtube.com/vi/LNeD9vEqN_Q/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=LNeD9vEqN_Q)
+18. [**All you need to know from finite element theory | Part 2 | variational and weak formulation of PDEs**](https://www.youtube.com/watch?v=zS1gAQWluiI)
+[![presentation](http://img.youtube.com/vi/zS1gAQWluiI/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=zS1gAQWluiI)
