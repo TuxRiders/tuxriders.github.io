@@ -24,3 +24,7 @@ This video series aims to cover interesting topics that cannot be put it in the 
 ### [An introduction to finite element modeling](finite-element)
 
 The idea behind this series is to simulate a single problem in different finite element programs and see the principles they all have in common. The problem to solve is selected to be a little bit more complex than the typical problems you see in tutorials: a transient heat transfer in a helical heat exchanger. We are going to build a 3D geometry in a CAD program, generate a mesh out of it, import the mesh into multiple finite element solvers, and solve a transient heat diffusion equation on it. This demonstrates a typical workflow of any finite element modeling project when a not-so-simple geometry is required. [See more...](finite-element)
+
+### [Engineering mathematics and simulation illustrations](mathematics-illustrations)
+
+Most of the videos in TuxRiders are dealing with partial differential equations and numerical solutions of them. In this series, the essential concepts of engineering mathematics and simulation are demonstrated in animated illustrations, making it easier to follow the technical videos of TuxRiders. [See more...](mathematics-illustrations)
