@@ -11,3 +11,5 @@ Some of these videos are created using [Manim community edition](https://www.man
 
 ## Videos
 
+1. [**Partial differential equations (PDEs) in engineering mathematics: introduction and classification**](https://www.youtube.com/watch?v=CiWcp1apu8Q)
+[![presentation](http://img.youtube.com/vi/CiWcp1apu8Q/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=CiWcp1apu8Q)
