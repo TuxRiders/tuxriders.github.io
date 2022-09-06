@@ -13,3 +13,6 @@ Some of these videos are created using [Manim community edition](https://www.man
 
 1. [**Partial differential equations (PDEs) in engineering mathematics: introduction and classification**](https://www.youtube.com/watch?v=CiWcp1apu8Q)
 [![presentation](http://img.youtube.com/vi/CiWcp1apu8Q/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=CiWcp1apu8Q)
+
+2. [**Parabolic PDEs and Reaction-Diffusion-Advection equation**](https://www.youtube.com/watch?v=6wNf7dflkl0)
+[![presentation](http://img.youtube.com/vi/6wNf7dflkl0/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=6wNf7dflkl0)
