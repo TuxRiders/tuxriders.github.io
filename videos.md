@@ -28,3 +28,7 @@ The idea behind this series is to simulate a single problem in different finite 
 ### [Engineering mathematics and simulation illustrations](mathematics-illustrations)
 
 Most of the videos in TuxRiders are dealing with partial differential equations and numerical solutions of them. In this series, the essential concepts of engineering mathematics and simulation are demonstrated in animated illustrations, making it easier to follow the technical videos of TuxRiders. [See more...](mathematics-illustrations)
+
+### [Introduction to finite element using FreeFEM](freefem)
+
+FreeFEM is one of the tools we use a lot in TuxRiders, a powerful open-source PDE solver which is actually a domain-specific language (DSL) for finite element computation. It also includes nice interfaces to a wide variety of scientific computing libraries and tools. In this series, we cover the FreeFEM basic concepts. [See more...](freefem)
