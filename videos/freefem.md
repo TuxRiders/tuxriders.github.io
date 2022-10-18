@@ -13,3 +13,6 @@ Codes and models required to follow the videos and reproduce the output, grouped
 
 1. [**Introduction to FreeFEM: language syntax and environment**](https://www.youtube.com/watch?v=Dxg-4asWuj0)
 [![presentation](http://img.youtube.com/vi/Dxg-4asWuj0/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=Dxg-4asWuj0)
+
+2. [**2D mesh generation in FreeFEM**](https://www.youtube.com/watch?v=R1gzcwBWmv0)
+[![presentation](http://img.youtube.com/vi/R1gzcwBWmv0/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=R1gzcwBWmv0)
