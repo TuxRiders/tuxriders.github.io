@@ -16,3 +16,6 @@ Codes and models required to follow the videos and reproduce the output, grouped
 
 2. [**2D mesh generation in FreeFEM**](https://www.youtube.com/watch?v=R1gzcwBWmv0)
 [![presentation](http://img.youtube.com/vi/R1gzcwBWmv0/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=R1gzcwBWmv0)
+
+3. [**3D mesh generation in FreeFEM**](https://www.youtube.com/watch?v=ZLiqQ8k4UVo)
+[![presentation](http://img.youtube.com/vi/ZLiqQ8k4UVo/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=ZLiqQ8k4UVo)
