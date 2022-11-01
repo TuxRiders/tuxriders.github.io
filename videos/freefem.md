@@ -19,3 +19,6 @@ Codes and models required to follow the videos and reproduce the output, grouped
 
 3. [**3D mesh generation in FreeFEM**](https://www.youtube.com/watch?v=ZLiqQ8k4UVo)
 [![presentation](http://img.youtube.com/vi/ZLiqQ8k4UVo/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=ZLiqQ8k4UVo)
+
+4. [**Finite element spaces and function approximation in FreeFEM**](https://www.youtube.com/watch?v=j4Z5Xb85dEs)
+[![presentation](http://img.youtube.com/vi/j4Z5Xb85dEs/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=j4Z5Xb85dEs)
