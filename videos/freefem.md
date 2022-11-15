@@ -22,3 +22,6 @@ Codes and models required to follow the videos and reproduce the output, grouped
 
 4. [**Finite element spaces and function approximation in FreeFEM**](https://www.youtube.com/watch?v=j4Z5Xb85dEs)
 [![presentation](http://img.youtube.com/vi/j4Z5Xb85dEs/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=j4Z5Xb85dEs)
+
+5. [**Implementing weak formulation to solve partial differential equations in FreeFEM**](https://www.youtube.com/watch?v=SGIIQUseps8)
+[![presentation](http://img.youtube.com/vi/SGIIQUseps8/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=SGIIQUseps8)
