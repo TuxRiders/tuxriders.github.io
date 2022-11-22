@@ -25,3 +25,6 @@ Codes and models required to follow the videos and reproduce the output, grouped
 
 5. [**Implementing weak formulation to solve partial differential equations in FreeFEM**](https://www.youtube.com/watch?v=SGIIQUseps8)
 [![presentation](http://img.youtube.com/vi/SGIIQUseps8/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=SGIIQUseps8)
+
+6. [**Adaptive mesh generation in FreeFEM**](https://www.youtube.com/watch?v=xxsOajrLqzU)
+[![presentation](http://img.youtube.com/vi/xxsOajrLqzU/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=xxsOajrLqzU)
