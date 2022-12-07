@@ -31,3 +31,6 @@ Codes and models required to follow the videos and reproduce the output, grouped
 
 7. [**Visualization and input/output (IO) operations in FreeFEM**](https://www.youtube.com/watch?v=algfmHKNsX4)
 [![presentation](http://img.youtube.com/vi/algfmHKNsX4/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=algfmHKNsX4)
+
+8. [**Regions and sub-domains to define variable material properties and initial conditions**](https://www.youtube.com/watch?v=g43w0iZFE-c)
+[![presentation](http://img.youtube.com/vi/g43w0iZFE-c/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=g43w0iZFE-c)
