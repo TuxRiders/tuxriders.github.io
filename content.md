@@ -14,11 +14,17 @@ This is the list of content we intended to record/release eventually, although i
 
 * [An easy (but not so short) introduction to applied numerical computing (numerical methods for solving partial differential equations)](../videos/numerical-computing)
 
-* Introduction to finite element programming using FreeFEM and FEniCS
+* [Introduction to finite element modeling](../videos/finite-element)
+
+* [Introduction to finite element using FreeFEM](../videos/freefem)
+
+* Introduction to finite element using FEniCSx
 
 * Introduction to mesh generation using GMSH, SALOME, CGAL, and Mmg
 
 * A crash course on high-performance computing and parallel programming 
+
+* Docker for scientific computing 
 
 ### Research Projects Series
 
