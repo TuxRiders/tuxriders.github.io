@@ -37,3 +37,6 @@ Codes and models required to follow the videos and reproduce the output, grouped
 
 9. [**Solvers and preconditioners for the linear system of equations: PETSc, MUMPS, & UMFPACK**](https://www.youtube.com/watch?v=wGYez2-3rvk)
 [![presentation](http://img.youtube.com/vi/wGYez2-3rvk/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=wGYez2-3rvk)
+
+10. [**Parallel programming and Message Passing Interface (MPI)**](https://www.youtube.com/watch?v=7huftuXExV0)
+[![presentation](http://img.youtube.com/vi/7huftuXExV0/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=7huftuXExV0)
