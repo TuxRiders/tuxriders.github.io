@@ -40,3 +40,6 @@ Codes and models required to follow the videos and reproduce the output, grouped
 
 10. [**Parallel programming and Message Passing Interface (MPI)**](https://www.youtube.com/watch?v=7huftuXExV0)
 [![presentation](http://img.youtube.com/vi/7huftuXExV0/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=7huftuXExV0)
+
+11. [**Domain decomposition and high-performance finite element simulations**](https://www.youtube.com/watch?v=Phpce6teWAA)
+[![presentation](http://img.youtube.com/vi/Phpce6teWAA/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=Phpce6teWAA)
