@@ -29,3 +29,5 @@ In this series, we try to address a set of interesting questions/comments/challe
 [![presentation](http://img.youtube.com/vi/JSvVVkf4GDU/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=JSvVVkf4GDU)
 11. [**Using Matplotlib inside ParaView Python View to plot graphs, charts, and histograms**](https://www.youtube.com/watch?v=OeG0XPv3eZw)
 [![presentation](http://img.youtube.com/vi/OeG0XPv3eZw/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=OeG0XPv3eZw)
+12. [**Getting started with Palabos, parallel lattice Boltzmann simulation code**](https://www.youtube.com/watch?v=sJ89FTGlHGI)
+[![presentation](http://img.youtube.com/vi/sJ89FTGlHGI/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=sJ89FTGlHGI)
