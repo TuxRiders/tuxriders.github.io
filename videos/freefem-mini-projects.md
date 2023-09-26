@@ -9,7 +9,7 @@ After covering the basic concepts, terminologies, and techniques of the [FreeFEM
 
 Codes and models required to follow the videos and reproduce the output, grouped per episode, can be found in [this GitHub repository](https://github.com/TuxRiders/freefem-mini-projects).
 
-<!-- ## Videos -->
+## Videos
 
-<!-- 1. [**Introduction to FreeFEM: language syntax and environment**](https://www.youtube.com/watch?v=Dxg-4asWuj0)
-[![presentation](http://img.youtube.com/vi/Dxg-4asWuj0/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=Dxg-4asWuj0) -->
+1. [**Parallel 3D transient heat diffusion using FreeFEM**](https://www.youtube.com/watch?v=MvovTTcKEb8)
+[![presentation](http://img.youtube.com/vi/MvovTTcKEb8/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=MvovTTcKEb8)
