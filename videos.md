@@ -32,3 +32,6 @@ Most of the videos in TuxRiders are dealing with partial differential equations 
 ### [Introduction to finite element using FreeFEM](freefem)
 
 FreeFEM is one of the tools we use a lot in TuxRiders, a powerful open-source PDE solver which is actually a domain-specific language (DSL) for finite element computation. It also includes nice interfaces to a wide variety of scientific computing libraries and tools. In this series, we cover the FreeFEM basic concepts. [See more...](freefem)
+
+### [Mini-projects in FreeFEM](freefem-mini-projects)
+After covering the basic concepts, terminologies, and techniques of the FreeFEM language and the finite element method, it's time to showcase some models as mini-projects in FreeFEM, helping you to see the things you learned in action. [See more...](freefem-mini-projects)
