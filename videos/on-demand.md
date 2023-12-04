@@ -37,3 +37,5 @@ In this series, we try to address a set of interesting questions/comments/challe
 [![presentation](http://img.youtube.com/vi/oO3gLumTUbQ/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=oO3gLumTUbQ)
 15. [**Building ParaView from source codes**](https://www.youtube.com/watch?v=3joVOlzCm_Y)
 [![presentation](http://img.youtube.com/vi/3joVOlzCm_Y/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=3joVOlzCm_Y)
+16. [**Compiling and installing ParaView Plugins**](https://www.youtube.com/watch?v=sBPi9XxwBSE)
+[![presentation](http://img.youtube.com/vi/sBPi9XxwBSE/0.jpg){: style="max-width: 300px; height: auto;"}](https://www.youtube.com/watch?v=sBPi9XxwBSE)
