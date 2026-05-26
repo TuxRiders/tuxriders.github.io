@@ -18,7 +18,7 @@ This is the list of content we intended to record/release eventually, although i
 
 * [Introduction to finite element using FreeFEM](../videos/freefem)
 
-* Introduction to finite element using FEniCSx
+* Introduction to finite element using Firedrake
 
 * Introduction to mesh generation using GMSH, SALOME, CGAL, and Mmg
 
